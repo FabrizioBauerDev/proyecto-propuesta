@@ -223,8 +223,8 @@ export default function Home() {
             previa en tu departamento, y ahí fue donde todo realmente comenzó.
           </p>
           <p className="mt-4 text-center text-lg mx-5">
-            Aunque después con tus amigas yo fuera "futuros turnitos de
-            terapia", me diste la oportunidad en tu corazoncito, nos vimos más y
+            Aunque después con tus amigas yo fuera &quot;futuros turnitos de
+            terapia&quot;, me diste la oportunidad en tu corazoncito, nos vimos más y
             más y obvio, seguimos de fiesta pero ahora juntos, a eso se remontan
             las primeras fotos, a fiestas, dormir juntos y compartir.
           </p>
@@ -403,7 +403,7 @@ export default function Home() {
             sentir tan feliz como me haces sentir a mí.
           </p>
           <p className="mt-4 text-center text-lg mx-5">
-            Una de las fotos de Córdoba, en el museo dice "Y si el trofeo fueras vos?" y en mi contexto lo sos
+            Una de las fotos de Córdoba, en el museo dice &quot;Y si el trofeo fueras vos?&quot; y en mi contexto lo sos
           </p>
           <div className="mt-6 flex space-x-4">
             {/* Botón "Sí, quiero" */}
