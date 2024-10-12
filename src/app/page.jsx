@@ -220,13 +220,13 @@ export default function Home() {
           <p className="mt-4 text-center text-lg mx-5">
             Ahí conocí a mi Iara, y luego por cuestiones raras de la vida nos
             fuimos cruzando cada vez más, conociendonos hasta un día compartir
-            previa en tu departamento, y ahí fue donde todo realmente comenzó.
+            previa en tu departamento, ahí fue donde todo realmente comenzó.
           </p>
           <p className="mt-4 text-center text-lg mx-5">
             Aunque después con tus amigas yo fuera &quot;futuros turnitos de
-            terapia&quot;, me diste la oportunidad en tu corazoncito, nos vimos más y
-            más y obvio, seguimos de fiesta pero ahora juntos, a eso se remontan
-            las primeras fotos, a fiestas, dormir juntos y compartir.
+            terapia&quot;, me diste la oportunidad en tu corazoncito, nos vimos
+            más y más y obvio, seguimos de fiesta pero ahora juntos, a eso se
+            remontan las primeras fotos, a fiestas, dormir juntos y compartir.
           </p>
           <br />
           <p className="mt-4 text-center text-2xl mx-5 underline">
@@ -256,13 +256,21 @@ export default function Home() {
           ref={(el) => (sectionsRef.current[3] = el)}
           className="snap-start flex flex-col items-center justify-center opacity-0 transform translate-y-5 transition-all duration-700 h-screen"
         >
-          <h1 className="text-4xl mt-5">Compartir🫂</h1>
+          <h1 className="text-4xl">Compartir🫂</h1>
           <p className="mt-4 text-center mx-5">
             Compartir, esa es una de las palabras a la que nuestra relación se
             podría resumir, compartir momentos, compartir risas, compartir
             tristezas, compartir enojos, compartir todo, y eso es lo que nos
             hace tan fuertes, que siempre estamos ahí el uno para el otro.
           </p>
+          <p className="mt-4 text-center mx-5">
+            Y es que compartir no solo significa estar en los buenos momentos,
+            sino también en los difíciles, creciendo juntos en cada paso. Lo que
+            hemos construido es más que una relación, es un equipo, donde
+            nuestras risas, sueños y hasta nuestras imperfecciones se entrelazan
+            para crear algo único.
+          </p>
+
           <p className="mt-4 text-center mx-5">
             Al pasar el tiempo fuimos abriendo nuestros espacios personales al
             otro, compartiendo un almuerzo con amigos, una marcha juntos por la
@@ -398,12 +406,22 @@ export default function Home() {
         >
           <h1 className="text-4xl">Y la historia continúa...</h1>
           <p className="mt-4 text-center text-lg mx-5">
+            Y así es como llegamos a este punto, a este momento, a este lugar,
+            después de 9 meses juntos con muchisimas cosas vividas, con muchas
+            cosas compartidas, con muchas cosas por compartir.
+          </p>
+          <p className="mt-4 text-center text-lg mx-5">
             Mi persona favorita, mi compañera de aventuras, mi amor, mi todo. Te
             amo Iara, y espero que esta historia de amor que te cuento te haga
             sentir tan feliz como me haces sentir a mí.
           </p>
           <p className="mt-4 text-center text-lg mx-5">
-            Una de las fotos de Córdoba, en el museo dice &quot;Y si el trofeo fueras vos?&quot; y en mi contexto lo sos
+            Esta página es un pequeño regalo para vos, no es el mejor pero esta
+            hecho con mucho amor, pero especialmente con un fin. ¿Querés seguir
+            compartiendo tu vida conmigo?
+          </p>
+          <p className="mt-4 text-center text-2xl mx-5 underline">
+            ¿Querés ser mi novia?
           </p>
           <div className="mt-6 flex space-x-4">
             {/* Botón "Sí, quiero" */}
