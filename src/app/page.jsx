@@ -228,10 +228,6 @@ export default function Home() {
             más y más y obvio, seguimos de fiesta pero ahora juntos, a eso se
             remontan las primeras fotos, a fiestas, dormir juntos y compartir.
           </p>
-          <br />
-          <p className="mt-4 text-center text-2xl mx-5 underline">
-            Desliza hacia abajo para continuar.
-          </p>
         </div>
         {/* Carrusel de Sección 2 */}
         <div
@@ -283,10 +279,6 @@ export default function Home() {
             nos hacen ser felices el uno con el otro, porque de eso se trata, de
             vivir, compartir y ser felices juntos.
           </p>
-          <br />
-          <p className="mt-4 text-center text-2xl mx-5 underline">
-            Desliza hacia abajo para continuar.
-          </p>
         </div>
         {/* Carrusel de la Sección 3 */}
         <div
@@ -333,10 +325,6 @@ export default function Home() {
             a algo que te era ajeno, simplemente por darme una mano y mi crear
             nuevos recuerdos juntos.
           </p>
-          <br />
-          <p className="mt-4 text-center text-2xl mx-5 underline">
-            Desliza hacia abajo para continuar.
-          </p>
         </div>
         {/* Carrusel de la Sección 4 */}
         <div
@@ -376,10 +364,6 @@ export default function Home() {
             Queria incluir estas fotos porque son de las que más me gustan,
             asique este capitulo lo resumen algunas de nuestras fotos de La
             Florida. Espero que te gusten tanto como a mí.
-          </p>
-          <br />
-          <p className="mt-4 text-center text-2xl mx-5 underline">
-            Desliza hacia abajo para continuar.
           </p>
         </div>
         {/* Carrusel de la Sección 5 */}
