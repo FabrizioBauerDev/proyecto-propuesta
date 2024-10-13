@@ -193,7 +193,7 @@ export default function Home() {
           ref={(el) => (sectionsRef.current[0] = el)}
           className="snap-start flex flex-col items-center justify-center opacity-0 transform translate-y-5 transition-all duration-700 h-screen"
         >
-          <h1 className="text-4xl">Hola Iara🥰</h1>
+          <h1 className="text-3xl">Hola Iara🥰</h1>
           <p className="mt-4 text-center text-2xl mx-5">
             ¿Cómo estas? Espero que muy bien, y si no es así, espero que esta
             bonita historia de amor te haga sentir mejor. Te la voy a contar en
@@ -210,19 +210,19 @@ export default function Home() {
           ref={(el) => (sectionsRef.current[1] = el)}
           className="snap-start flex flex-col items-center justify-center opacity-0 transform translate-y-5 transition-all duration-700 h-screen"
         >
-          <h1 className="text-4xl">Una bonita casualidad🌠</h1>
-          <p className="mt-4 text-center text-lg mx-5">
+          <h1 className="text-3xl">Una bonita casualidad🌠</h1>
+          <p className="mt-4 text-center text-md mx-5">
             Esta bonita historia tiene un inicio fiestero, como todas las buenas
             historias de amor. Una fiesta random a la que fuí por casualidad, en
             un bar-casa antigua, nos conocimos, dos personas que no sabían que
             su vida iba a cambiar de una forma tan bonita.
           </p>
-          <p className="mt-4 text-center text-lg mx-5">
+          <p className="mt-4 text-center text-md mx-5">
             Ahí conocí a mi Iara, y luego por cuestiones raras de la vida nos
             fuimos cruzando cada vez más, conociendonos hasta un día compartir
             previa en tu departamento, ahí fue donde todo realmente comenzó.
           </p>
-          <p className="mt-4 text-center text-lg mx-5">
+          <p className="mt-4 text-center text-md mx-5">
             Aunque después con tus amigas yo fuera &quot;futuros turnitos de
             terapia&quot;, me diste la oportunidad en tu corazoncito, nos vimos
             más y más y obvio, seguimos de fiesta pero ahora juntos, a eso se
@@ -252,7 +252,7 @@ export default function Home() {
           ref={(el) => (sectionsRef.current[3] = el)}
           className="snap-start flex flex-col items-center justify-center opacity-0 transform translate-y-5 transition-all duration-700 h-screen"
         >
-          <h1 className="text-4xl">Compartir🫂</h1>
+          <h1 className="text-3xl">Compartir🫂</h1>
           <p className="mt-4 text-center mx-5">
             Compartir, esa es una de las palabras a la que nuestra relación se
             podría resumir, compartir momentos, compartir risas, compartir
@@ -304,21 +304,21 @@ export default function Home() {
           ref={(el) => (sectionsRef.current[5] = el)}
           className="snap-start flex flex-col items-center justify-center opacity-0 transform translate-y-10 transition-all duration-700 h-screen"
         >
-          <h1 className="text-4xl">Compañera❤️‍🩹</h1>
-          <p className="mt-4 text-center text-lg mx-5">
+          <h1 className="text-3xl">Compañera❤️‍🩹</h1>
+          <p className="mt-4 text-center text-md mx-5">
             Porque eso es lo que sos para mí, la mejor compañera que me pudo
             haber tocado, con la palabra justa, la sonrisa perfecta, el abrazo
             necesario y la energía de la alegría que a veces a uno le hace
             falta.
           </p>
-          <p className="mt-4 text-center text-lg mx-5">
+          <p className="mt-4 text-center text-md mx-5">
             Aunque suene un poco redundante todo lo que digo, siempre estoy
             agradecido por tenerte a mi lado, por ser mi compañera de vida, por
             ser mi amiga, mi confidente, mi amor, mi todo. Como te dije el otro
             día, no te necesito para vivir mi vida, pero quiero vivirla con vos,
             porque todo es más lindo a tu lado.
           </p>
-          <p className="mt-4 text-center text-lg mx-5">
+          <p className="mt-4 text-center text-md mx-5">
             Las fotos que siguen son un reflejo de eso, el compañerismo que
             tenes conmigo y las ganas de compartir que tengo yo contigo. Son de
             nuestro primer viaje juntos, a Córdoba, donde decidiste acompañarme
@@ -348,19 +348,19 @@ export default function Home() {
           ref={(el) => (sectionsRef.current[7] = el)}
           className="snap-start flex flex-col items-center justify-center opacity-0 transform translate-y-10 transition-all duration-700 h-screen"
         >
-          <h1 className="text-4xl mt-5">Más fiesta💃🕺</h1>
-          <p className="mt-4 text-center text-lg mx-5">
+          <h1 className="text-3xl mt-5">Más fiesta💃🕺</h1>
+          <p className="mt-4 text-center text-md mx-5">
             Pasaron los meses y todos los días el amor siguió, y lo más lindo de
             esto es que siguió el amor sano, el amor que te hace crecer, el amor
             que te hace ser mejor persona, el amor que te hace feliz, el amor
             que no te priva.
           </p>
-          <p className="mt-4 text-center text-lg mx-5">
+          <p className="mt-4 text-center text-md mx-5">
             Por esto que tuvimos más fiesta, porque a pesar de nuestra relación
             no dejamos de ser libres de disfrutar, de compartir con amigos, de
             bailar, de reír sanamente.
           </p>
-          <p className="mt-4 text-center text-lg mx-5">
+          <p className="mt-4 text-center text-md mx-5">
             Queria incluir estas fotos porque son de las que más me gustan,
             asique este capitulo lo resumen algunas de nuestras fotos de La
             Florida. Espero que te gusten tanto como a mí.
@@ -388,18 +388,18 @@ export default function Home() {
           ref={(el) => (sectionsRef.current[9] = el)}
           className="snap-start flex flex-col items-center justify-center opacity-0 transform translate-y-10 transition-all duration-700 h-screen"
         >
-          <h1 className="text-4xl">Y la historia continúa...</h1>
-          <p className="mt-4 text-center text-lg mx-5">
+          <h1 className="text-3xl">Y la historia continúa...</h1>
+          <p className="mt-4 text-center text-md mx-5">
             Y así es como llegamos a este punto, a este momento, a este lugar,
             después de 9 meses juntos con muchisimas cosas vividas, con muchas
             cosas compartidas, con muchas cosas por compartir.
           </p>
-          <p className="mt-4 text-center text-lg mx-5">
+          <p className="mt-4 text-center text-md mx-5">
             Mi persona favorita, mi compañera de aventuras, mi amor, mi todo. Te
             amo Iara, y espero que esta historia de amor que te cuento te haga
             sentir tan feliz como me haces sentir a mí.
           </p>
-          <p className="mt-4 text-center text-lg mx-5">
+          <p className="mt-4 text-center text-md mx-5">
             Esta página es un pequeño regalo para vos, no es el mejor pero esta
             hecho con mucho amor, pero especialmente con un fin. ¿Querés seguir
             compartiendo tu vida conmigo?
